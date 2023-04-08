@@ -12,13 +12,6 @@
 - 📧 support email **support@tcapsmovies.tk**
 - 📧 partner email **partner@tcapsmovies.tk**
 - 💰 founded in **2020**
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tcapsmovies-LLC&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Elijah-glitch" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tcapsmovies-LLC&show_icons=true&locale=en&theme=tokyonight" alt="Elijah-glitch" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tcapsmovies-LLC&theme=tokyonight" alt="Elijah-glitch" /></p>
 ---------------------------------------------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
